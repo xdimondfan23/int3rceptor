@@ -1,6 +1,7 @@
 <div align="center">
 
-![int3rceptor Banner](assets/project_banner.png)
+<img width="1024" height="682" alt="project_banner" src="https://github.com/user-attachments/assets/9d940bcc-084b-4030-861e-bda4aafe15c5" />
+
 
 [![License: Proprietary](https://img.shields.io/badge/License-Proprietary-red.svg?style=for-the-badge)](LICENSE)
 [![Rust](https://img.shields.io/badge/rust-1.70%2B-orange.svg?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/)
@@ -120,32 +121,32 @@
 
 ### Dashboard Overview
 
-![Dashboard](assets/screenshots/dashboard.png)
+<img width="1024" height="682" alt="dashboard" src="https://github.com/user-attachments/assets/39d7d521-6b08-48dc-9c8d-8dc7300102d0" />
 _Modern Vue.js interface with real-time traffic monitoring_
 
 ### Traffic Interception
 
-![Traffic Tab](assets/screenshots/traffic-tab.png)
+<img width="1024" height="682" alt="traffic-tab" src="https://github.com/user-attachments/assets/ab566440-697f-4a47-8e36-e6ecf517451f" />
 _Capture and analyze HTTP/HTTPS requests with syntax highlighting_
 
 ### Intruder/Fuzzer
 
-![Intruder](assets/screenshots/intruder-tab.png)
+<img width="1024" height="682" alt="intruder-tab" src="https://github.com/user-attachments/assets/4e55ea9a-5a20-4c02-8da5-4ca5469434a7" />
 _4 attack modes: Sniper, Battering Ram, Pitchfork, Cluster Bomb_
 
 ### Request Repeater
 
-![Repeater](assets/screenshots/repeater-tab.png)
+<img width="1024" height="682" alt="repeater-tab" src="https://github.com/user-attachments/assets/852b70ed-72d0-4977-a4fa-12dea139ed58" />
 _Modify and replay requests with real-time response viewing_
 
 ### WebSocket Interception (v2.0)
 
-![WebSocket](assets/screenshots/websocket-tab.png)
+<img width="1024" height="682" alt="websocket-tab" src="https://github.com/user-attachments/assets/a8999eb1-1c29-42c3-8102-153bca3ea5d7" />
 _Full bidirectional frame capture with metadata tracking_
 
 ### Ecosystem Preview
 
-![Ecosystem](assets/screenshots/ecosystem-preview.png)
+<img width="1024" height="682" alt="ecosystem-preview" src="https://github.com/user-attachments/assets/9d518ab3-c7f5-4ebf-b4bb-328ee7fe8f4d" />
 _Future modules: Plugin Marketplace, Proxy Manager, and Advanced Settings_
 
 ---
